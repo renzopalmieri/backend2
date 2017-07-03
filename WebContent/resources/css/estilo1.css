@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+
+
+.registrar{
+	
+	    margin-top: 20px !important;
+    padding: 10px 16px !important;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    width: 100% !important;
+	
+	
+}
+
+.titulosecundario {
+    background-color: #777;
+    border-color: #777;
+    border-radius: 0 !important;
+    margin-top: -15px !important;
+}
+
+.nombresecundario {
+    background-color: #777;
+    border-color: #777;
+    border-radius: 0 !important;
+    margin-right: 15px ! important;
+    color: white;
+    font-size: x-large;
+   
+}
+
+body{
+	background-color: #E0E1E4 !important;
+	
+	
+	
+}
